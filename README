@@ -1,4 +1,4 @@
-Device-Jtag-PP version 0.01
+Device-Jtag-PP version 0.02
 ===========================
 
 Device::Jtag::PP - Perl extension for communicating with JTAG devices via PC parallel port.
